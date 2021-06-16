@@ -247,14 +247,14 @@ if (brand!=null && name != null) {
 	      }
 	   }
 	
-	// DTO(Data Transfer Object) : 怨꾩링媛� �뜲�씠�꽣 援먰솚�쓣 �쐞�븳 媛앹껜, �뿬湲곗꽌�뒗 �겢�씪�씠�뼵�듃(Postman)�뿉�꽌 �삤�뒗 �뜲�씠�꽣瑜�
-	// �닔�떊�븷 紐⑹쟻�쑝濡� �궗�슜
+	// DTO(Data Transfer Object) : ??�꾩링媛�? �뜲�씠�꽣 ?��먰솚�쓣 �쐞�븳 媛앹�?, �뿬湲곗꽌�?�� �겢�씪�씠�뼵�듃(Postman)�뿉�꽌 �삤�뒗 �뜲�씠�꽣?���?
+	// �닔�떊�븷 紐⑹?���쑝濡� �궗�슜
 	@RequestMapping(method = RequestMethod.POST)
 	public ResponseEntity<?> createPerfume(@RequestBody @Valid PerfumeDto request) {
 
 		// Creating a new category in the application...
 
-		// �깮�꽦�옄 �씤�옄媛� �꼫臾� 留롫떎... 鍮뚮뱶�뙣�꽩?
+		// �깮�꽦�옄 �씤�옄媛� �꼫?���? 留롫?��... ?��?��뱶�?���꽩?
 		// final Perfume perfume = perfumeService.createPerfume(request.getBrand(),
 		// request.getName());
 		final Perfume perfume = perfumeService.createPerfume(request);
