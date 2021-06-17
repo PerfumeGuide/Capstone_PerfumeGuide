@@ -235,7 +235,7 @@ function brandSearch() {
 						}
 						else if (mOption == "name") {
 							location.href = "${pageContext.request.contextPath}/detailpage?brand=" + val.brand + '&name=' + val.name
-						}	                     
+						}
 	             })
 
 	         }
