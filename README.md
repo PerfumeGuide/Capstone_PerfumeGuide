@@ -12,6 +12,7 @@
 **김** **동** **규**
 
 **Perfume Guide**
+<img width="632" alt="0" src="https://user-images.githubusercontent.com/19922885/122493747-29e15c80-d023-11eb-9e3a-86cc1f35874a.png">
 
 
 
@@ -61,6 +62,7 @@
 **->웹 상에서 보다 쉽게 마음에 드는 향수를 찾을 수 있도록 도와줄 수 없을까?**
 
 **->해외사이트만 존재하는 상황에서 한국 내수시장에 맞춘 정보들이 필요하다.**
+<img width="1100" alt="1" src="https://user-images.githubusercontent.com/19922885/122493539-d7a03b80-d022-11eb-932e-df0d60eb466f.png">
 
 
 
@@ -85,6 +87,8 @@
 **날아가기까지의 향을 말한다. 흔히 잔향이라고 부르는**
 
 **향이다.**
+<img width="1100" alt="2" src="https://user-images.githubusercontent.com/19922885/122493576-e686ee00-d022-11eb-9ca2-eabb1f8b1bdf.png">
+
 
 
 
@@ -203,54 +207,14 @@
 **3. 프로젝트 구조 및 차후 전략**
 
 **3-1. 프로젝트 구조**
-
-**Client**
-
-**사용언어 : HTML5+CSS3+JavaScrip**
-
-**WEB**
-
-**server**
-
-**Ajax**
-
-**사용언어 : JQuery**
-
-**사용언어 : Java**
-
-**DB**
-
-**사용언어 : mySQL**
+<img width="1100" alt="3" src="https://user-images.githubusercontent.com/19922885/122493617-f69ecd80-d022-11eb-9e28-72d24bb39625.png">
 
 
 
 **3. 프로젝트 구조 및 차후 전략**
 
 **3-2. 관련기술 및 개발도구**
-
-**관련기술**
-
-**개발도구**
-
-**Ajax**
-
-**Hibernate**
-
-**Eclipse**
-
-**mySQL**
-
-**Rest**
-
-**API**
-
-**Apache**
-
-**tomcat**
-
-**Maven**
-
-**Github**
+<img width="1100" alt="4" src="https://user-images.githubusercontent.com/19922885/122493638-04545300-d023-11eb-9a85-b035a04bc4e5.png">
 
 
 
